@@ -1,0 +1,36 @@
+.game {
+  text-align: center;
+  background-color: #ffffff;
+  color: #000000;
+  font-weight: 200;
+  font-family: Helvetica;
+  width: 40%;
+  margin: 0 auto;
+}
+
+.title {
+  color: #bada55;
+  text-transform: capitalize;
+  font-weight: 400;
+}
+
+button {
+  font-size: 12px;
+  color: #000000;
+  background-color: #FFB128 ;
+  border: none;
+  border-radius: 3px;
+  margin-bottom: 1px;
+  outline: 0;
+}
+
+input {
+  font-size: 12px;
+  border-radius: 3px;
+  border: 1px solid #cccccc;
+  outline: 0;
+}
+
+.invest, .response1, .opts1, .opts2 {
+  display: none;
+}
